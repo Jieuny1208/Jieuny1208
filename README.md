@@ -24,6 +24,12 @@
     <a href="https://www.linkedin.com/in/www.linkedin.com/in/abcdefghi-jieun/"> 
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white">
     </a>
+    <a href="https://scholar.google.co.kr/citations?user=eRo7g0YAAAAJ&hl=ko"> 
+        <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=plastic&logo=GoogleScholar&logoColor=white">
+    </a>
+    <a href="https://github.com/Jieuny1208"> 
+        <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
+    </a>
 </div>  <br> 
 </div>
 
