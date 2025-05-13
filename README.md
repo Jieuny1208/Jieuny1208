@@ -18,9 +18,9 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
  <div align= "center"> <a href=mailto:lu3873@g.skku.edu> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:lu3873@g.skku.edu"> </a>  
-      <a href=> <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=plastic&logo=GoogleScholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=eRo7g0YAAAAJ&hl=ko"> </a>  
-      <a href=> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/abcdefghi-jieun"> </a>
-      <a href=> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white&link=https://github.com/Jieuny1208"> </a>
+      <a href=https://scholar.google.co.kr/citations?user=eRo7g0YAAAAJ&hl=ko> <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=plastic&logo=GoogleScholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=eRo7g0YAAAAJ&hl=ko"> </a>  
+      <a href=www.linkedin.com/in/abcdefghi-jieun> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/abcdefghi-jieun"> </a>
+      <a href=https://github.com/Jieuny1208> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white&link=https://github.com/Jieuny1208"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
