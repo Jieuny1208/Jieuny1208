@@ -30,7 +30,7 @@
 ---
 
 ### 📚 Education
-- **Ph.D., Smart Factory Convergence**, Sungkyunkwan University (2025 – )
+- **Ph.D., Smart Factory Convergence**, Sungkyunkwan University (2025 ~ )
 - **M.S., Smart Factory Convergence**, Sungkyunkwan University (2023.03 – 2025.02)
   - **Thesis**: Zero-GAN: GAN-based Zero-shot Anomaly Detection with Masked AutoEncoder for Deep Domain Adaptation
 
