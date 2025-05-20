@@ -127,7 +127,7 @@
 
 | Project Title | 참여기업 |참여 연구원 | Link |
 |---------------|------|------|------|
-| MAE 기반 ZERO-GAN을 활용한 심층 도메인 적응 이상 탐지 시스템 | (주)AIM | 이지은, 박지현, 조에나, 김준섭, 강소민 | [상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=174056&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EC%A7%80%EC%9D%80) |
+| MAE 기반 ZERO-GAN을 활용한 심층 도메인 적응 이상 탐지 시스템 | (주)AIM | 이지은, 박지현, 조예나, 김준섭, 강소민 | [상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=174056&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EC%A7%80%EC%9D%80) |
 | FS-GAN 기반의 새로운 이상 탐지 방식 | (주)AIM | 이지은, 강민지, 김찬용, 나세빈, 백승렬, 이현민, 안소연, 장소연 |[상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=166886&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EC%A7%80%EC%9D%80) |
 
 
