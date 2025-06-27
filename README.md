@@ -121,6 +121,8 @@
 ### 📅 Seminar Proceedings 📹 [YouTube](https://www.youtube.com/@smartfactoryskku)
 | Date       | Title & Topic                                                     | 
 |------------|-------------------------------------------------------------------|
+| 2025-06-27 | A Diffusion-Based Framework for Multi-Class Anomaly Detection| 
+| 2025-06-05 | Visual defect obfuscation based self‑supervised anomaly detection| 
 | 2025-04-18 | Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation| 
 | 2024-08-02 | Unsupervised Learning for Human Sensing Using Radio Signals       | 
 | 2024-04-09 | MAEDAY: MAE for Few and Zero Shot AnomalY Detection               |       
