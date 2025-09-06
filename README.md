@@ -50,6 +50,9 @@
 - T.-Y. Kim, J. Jeong, C.-G. Lee, S. Oh, J. Lee, and Y. Na, “Pattern wafer x/y auto align system using machine vision,” WSEAS Transactions on Signal Processing, vol. 19, no. 6, pp. 53–59, 2023
 - J. Lee, T.-Y. Kim, S. Beak, Y. Moon, and J. Jeong, “Real-time pose estimation based on resnet-50 for rapid safety prevention and accident detection for field workers,” MDPI Electronics, vol. 12, no. 16, p. 3513, 2023
 - T.-Y. Kim, J. Lee, and J. Jeong, “A Novel FS-GAN-Based Anomaly Detection Approach for Smart Manufacturing,” MDPI Machines, vol. 13, no. 1, p. 21, 2023
+- J. Lee, T.-Y. Kim, J.Lim, and J. Jeong, "DualNet-R: Dual-Network Surface Restoration with Weakly-Supervised Diffusion Based Knowledge Distillation for Pseudo Ground Truth Generation," Engineering Applications of Artificial Intelligence (EAAI), Submit
+- J. Lee, T.-Y. Kim, J.Lim, Y. Kwak, and J. Jeong, "MRF-Vision: Multimodal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring," Advanced Intelligent Systems (AIS), Submit
+- G. Lee, J.Lee, T.-Y. Kim, and J. Jeong, "LLM-AP: LLM-Based Anomaly Prediction with Synthetic Time-Series Data Augmentation" Computers & Industrial Engineering, Submit
 
 **Conference Papers:**
 - Y. Moon, J. Lee, S. Beak, and J. Jeong, “Point cloud-based real-time 3d object detection for predictive analytics of safety incidents in manufacturing industry,” in 2023 28th International Conference on Mechatronics and Machine Vision in Practice (M2VIP), 2023, pp. 1–6.
@@ -84,10 +87,15 @@
 
 
 **Patents:**
-- 차량 내부의 폭력 행위 탐지 및 예방을 위한 모니터링 장치 (출원 번호: 10-2024-0028853)
-- FS-GAN 기반의 새로운 Anomaly Detection 모델의 이상 탐지 방법 (출원 번호: 10-2024-0029645)
-- 인공지능 기반의 제조 공정 이상 탐지 시스템 (출원 번호: 10-2024-0028947)
-- RF 신호 기반 멀티모달 하이브리드 이상 탐지 장치 및 방법 (출원 번호: 10-2025-0093546)
+- Few-shot-learning을 이용한 자동 모델 업데이트 S/W (출원 번호: 10-2024-0028111/ 24.02.27)
+- 실시간 3D 객체 감지 및 동기화를 통한 현실적인 3D 공간 모델링 시스템 및 방법 (출원 번호: 10-2024-0028668/ 24.02.28)
+- 차량 내부의 폭력 행위 탐지 및 예방을 위한 모니터링 장치 (출원 번호: 10-2024-0028853/ 24.02.28)
+- FS-GAN 기반의 새로운 Anomaly Detection 모델의 이상 탐지 방법 (출원 번호: 10-2024-0029645/ 24.02.29)
+- 인공지능 기반의 제조 공정 이상 탐지 시스템 (출원 번호: 10-2024-0028947/ 24.02.28)
+- 철강제조공정의 Faster R-CNN,  FPN 기반 결함분류 및 약한 지도학습 라벨링 강화기법 (출원 번호: 10-2024-0160389/ 24.11.12)
+- ResViT 철강 표면 결함 분류기 (출원 번호: 10-2024-0169701/ 24.11.25)
+- RF 신호 기반 멀티모달 하이브리드 이상 탐지 장치 및 방법 (출원 번호: 10-2025-0093546/ 25.07.11)
+- 인공지능 기반 이상 탐지 및 복구 가능성 예측 장치 및 방법 (출원 번호: 10-2025-0095368/ 25.07.15)
 
 ---
 
@@ -116,6 +124,21 @@
   - Funding Agency: 과학기술정보통신부, ICT명품인재양성사업
   - Institution: 성균관대학교
   - Duration: 2024.03.01 - 2024.12.31
+ 
+- 상호 호혜적 지능 결합을 위한 심비오시스 모델 요소기술 개발
+  - Funding Agency: 과학기술정보통신부, ICT명품인재양성사업
+  - Institution: 성균관대학교
+  - Duration: 2025.03.01 - 2025.12.31
+ 
+- 상호 호혜적 지능 결합을 위한 심비오시스 모델 요소기술 개발
+  - Funding Agency: 과학기술정보통신부, ICT명품인재양성사업
+  - Institution: 성균관대학교
+  - Duration: 2025.03.01 - 2025.12.31
+
+- MLCC 인쇄 제판 롤의 비정형 패턴 결함 검출을 위한 시각 맥락 기반 AI 검사 기술 개발
+  - Funding Agency: 과학기술정보통신부
+  - Institution: 성균관대학교
+  - Duration: 2025.09.01 – 2025.12.31 
 
 ---
 
@@ -142,25 +165,26 @@
 
 | Project Title | 참여기업 |참여 연구원 | Link |
 |---------------|------|------|------|
-| Pseudo-GT와 Stable Diffusion을 활용한 약지도 기반 차량 손상 복원 시스템 | - | 이지은 | [상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=202598&article.offset=0&articleLimit=10) |
-| MAE 기반 ZERO-GAN을 활용한 심층 도메인 적응 이상 탐지 시스템 | (주)AIM | 이지은, 박지현, 조예나, 김준섭, 강소민 | [상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=174056&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EC%A7%80%EC%9D%80) |
 | FS-GAN 기반의 새로운 이상 탐지 방식 | (주)AIM | 이지은, 강민지, 김찬용, 나세빈, 백승렬, 이현민, 안소연, 장소연 |[상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=166886&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EC%A7%80%EC%9D%80) |
-
+| MAE 기반 ZERO-GAN을 활용한 심층 도메인 적응 이상 탐지 시스템 | (주)AIM | 이지은, 박지현, 조예나, 김준섭, 강소민 | [상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=174056&article.offset=0&articleLimit=10&srSearchVal=%EC%9D%B4%EC%A7%80%EC%9D%80) |
+| Pseudo-GT와 Stable Diffusion을 활용한 약지도 기반 차량 손상 복원 시스템 | - | 이지은 | [상세보기](https://factory.skku.edu/factory/sanhakproject.do?mode=view&articleNo=202598&article.offset=0&articleLimit=10) |
 
 ---
 
 ### 🏅 Awards
-- LINC3.0 2024년도 캡스톤디자인(Capstone Design) 경진대회, 장려상 (2024)
-- 성균관대학교 스마트팩토리융합학과 우수 연구, 우수상 (2023)
-- IIBC 2023 국내학술대회, 우수논문상 (2023)
 - IIBC Capstone Design Contest, 금상 (2021)
+- IIBC 2023 국내학술대회, 우수논문상 (2023)
+- 성균관대학교 스마트팩토리융합학과 우수 연구, 우수상 (2023)
+- LINC3.0 2024년도 캡스톤디자인(Capstone Design) 경진대회, 장려상 (2024)
 
 ---
 
 ### 📜 Certifications
-- 인공지능학습데이터전문가 2급, Awarded by 한국인공지능협회 
-- 프롬프트엔지니어 1급, Awarded by KAIT 정보통신기술자격검정
-- TensorFlow Developer Certificate, Awarded by TensorFlow
-- 스마트폰 개발자, Awarded by 국제문화기술진흥원
-- Microsoft PowerPoint (Office 2016), Awarded by Microsoft
 - 인공지능 전문가 자격증, Awarded by 국제문화기술진흥원
+- Microsoft PowerPoint (Office 2016), Awarded by Microsoft
+- 스마트폰 개발자, Awarded by 국제문화기술진흥원
+- TensorFlow Developer Certificate, Awarded by TensorFlow
+- 프롬프트엔지니어 1급, Awarded by KAIT 정보통신기술자격검정
+- 인공지능학습데이터전문가 2급, Awarded by 한국인공지능협회 
+- SW 테스트 전문가 일반등급, Awarded by 한국정보통신기술협회
+
