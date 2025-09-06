@@ -129,11 +129,6 @@
   - Funding Agency: 과학기술정보통신부, ICT명품인재양성사업
   - Institution: 성균관대학교
   - Duration: 2025.03.01 - 2025.12.31
- 
-- 상호 호혜적 지능 결합을 위한 심비오시스 모델 요소기술 개발
-  - Funding Agency: 과학기술정보통신부, ICT명품인재양성사업
-  - Institution: 성균관대학교
-  - Duration: 2025.03.01 - 2025.12.31
 
 - MLCC 인쇄 제판 롤의 비정형 패턴 결함 검출을 위한 시각 맥락 기반 AI 검사 기술 개발
   - Funding Agency: 과학기술정보통신부
