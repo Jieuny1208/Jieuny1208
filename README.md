@@ -181,5 +181,5 @@
 - TensorFlow Developer Certificate, Awarded by TensorFlow
 - 프롬프트엔지니어 1급, Awarded by KAIT 정보통신기술자격검정
 - 인공지능학습데이터전문가 2급, Awarded by 한국인공지능협회 
-- SW 테스트 전문가 일반등급, Awarded by 한국정보통신기술협회
+- AICE Basic, Awarded by (주)KT, (주)한국경제신문
 
