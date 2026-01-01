@@ -50,14 +50,9 @@
 - T.-Y. Kim, J. Jeong, C.-G. Lee, S. Oh, J. Lee, and Y. Na, “Pattern wafer x/y auto align system using machine vision,” WSEAS Transactions on Signal Processing, vol. 19, no. 6, pp. 53–59, 2023
 - J. Lee, T.-Y. Kim, S. Beak, Y. Moon, and J. Jeong, “Real-time pose estimation based on resnet-50 for rapid safety prevention and accident detection for field workers,” MDPI Electronics, vol. 12, no. 16, p. 3513, 2023
 - T.-Y. Kim, J. Lee, and J. Jeong, “A Novel FS-GAN-Based Anomaly Detection Approach for Smart Manufacturing,” MDPI Machines, vol. 13, no. 1, p. 21, 2023
-- J. Lee, T.-Y. Kim, J. Lim, Y. Kwak, and J. Jeong, “Mrf-vision: Multi-modal radio
-frequency-vision anomaly detection for industrial iot monitoring,” International Journal of
-Intelligent Systems, 2025, SCI(E), submit.
-- J. Lee, T.-Y. Kim, S. Gong, J. Lim, G. Lee, and J. Jeong, “Aero-gan: Adaptive cross-domain
-anomaly detection without retraining for smart manufacturing,” 2025, ESCI, submit.
-- J. Lee, T.-Y. Kim, J. Lim, and J. Jeong, “Dualnet-r: Dual-network surface restoration with
-weakly-supervised diffusion based knowledge distillation for pseudo ground truth
-generation,” Expert Systems With Applications, 2025, SCI(E), submit. 
+- J. Lee, T.-Y. Kim, J. Lim, Y. Kwak, and J. Jeong, “MRF-Vision: Multi-Modal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring,” International Journal of Intelligent Systems, 2025, SCIE, submit.
+- J. Lee, T.-Y. Kim, S. Gong, J. Lim, G. Lee, and J. Jeong, “Aero-GAN: Adaptive Cross-Domain Anomaly Detection Without Retraining for Smart Manufacturing​,” 2025, ESCI, submit.
+- J. Lee, T.-Y. Kim, J. Lim, and J. Jeong, “DualNet-R: Dual-Network Surface Restoration with Diffusion-Based Pseudo-Ground Truth Generation,” International Journal of Computer Vision, 2025, SCIE, submit. 
 
 **Conference Papers:**
 - Y. Moon, J. Lee, S. Beak, and J. Jeong, “Point cloud-based real-time 3d object detection for predictive analytics of safety incidents in manufacturing industry,” in 2023 28th International Conference on Mechatronics and Machine Vision in Practice (M2VIP), 2023, pp. 1–6.
@@ -65,48 +60,47 @@ generation,” Expert Systems With Applications, 2025, SCI(E), submit.
 - J. Lee, N. Kim, J. Park, T.-Y. Kim, J. Park, and J. Jeong, “Design and implementation of an eye fatigue analysis system to prevent safety accidents for field workers,” in 8th IEEE/ACIS International Conference on Big Data, Cloud Computing, and Data Science Engineering (BCD 2023), Non-SCI, 2023, pp. 136–141.
 - J. Park, S. Oh, T.-y. Kim, J. Lee, and J. Jeong, “Hnsw-based dbscan for large-scale point cloud computing,” in 8th IEEE/ACIS International Conference on Big Data, Cloud Computing, and Data Science Engineering (BCD 2023), Non-SCI, 2023, pp. 86–91. 
 - J. Park, J. Lee, T. Wi, M. Jeong, and J. Jeong, “다품종 소량 생산에 적합한 에지 인식 기반 로봇 좌표 입력 및 이동 기법 연구,” in ICS 2024
-- J. Lee, T.-Y. Kim, and J. Jeong, “Freqclip: Frequency vision-language model for solar panel
-anomaly detection,” in CVPR 2026, submit.
+- J. Lee, T.-Y. Kim, and J. Jeong, “Freqclip: Frequency vision-language model for solar panel anomaly detection,” in CVPR 2026, submit.
 
 ---
 
 ### 💡 Intellectual Property
 **Program Registrations:**
-- 주파수 분석 기반 태양광 결함 자동 탐지 시스템
-  - 등록번호: C-2025-048255
-  - 설명: 주파수 분석 기법을 활용한 태양광 패널 결함 실시간 탐지 시스템.
+- 얼굴 유사도 측정 프로그램 
+  - 등록 번호: C-2023-032330  
+  - 설명: 얼굴 인식 및 얼굴 임베딩 기술을 활용하여 두 이미지 내 얼굴 간의 유사도 측정 프로그램.
+ 
+- Worker Safety Gear Recognition System 
+  - 등록 번호: C-2023-058388  
+  - 설명: 딥러닝 기반 이미지 인식 기술을 사용하여 작업자 안전 장비 착용 실시간 모니터링 시스템
 
-- ResNet50-LSTM 기반 멀티모달 비지도 학습을 활용한 제조 공정 결함 탐지 기법
-  - 등록번호: C-2025-023071
-  - 설명: ResNet50-LSTM 기반 멀티모달 비지도 학습 제조 결함 탐지 시스템.
+- Zero-GAN(제로간) 기반 도메인 적응 이상 탐지 시스템 
+  - 등록 번호: C-2025-019142  
+  - 설명: Masked Auto Encoder를 활용한 Zero-GAN 기반 도메인 적응 이상 탐지 시스템.
 
 - 차량 결함 자동 진단 및 복구 예측 시스템
   - 등록번호: C-2025-019655
   - 설명: 인공지능 기반 차량 결함 자동 진단 및 복구 가능성 예측 시스템.
 
-- Zero-GAN(제로간) 기반 도메인 적응 이상 탐지 시스템 
-  - 등록 번호: C-2025-019142  
-  - 설명: Masked Auto Encoder를 활용한 Zero-GAN 기반 도메인 적응 이상 탐지 시스템.
- 
-- Worker Safety Gear Recognition System 
-  - 등록 번호: C-2023-058388  
-  - 설명: 딥러닝 기반 이미지 인식 기술을 사용하여 작업자 안전 장비 착용 실시간 모니터링 시스템
- 
-- 얼굴 유사도 측정 프로그램 
-  - 등록 번호: C-2023-032330  
-  - 설명: 얼굴 인식 및 얼굴 임베딩 기술을 활용하여 두 이미지 내 얼굴 간의 유사도 측정 프로그램.
+- ResNet50-LSTM 기반 멀티모달 비지도 학습을 활용한 제조 공정 결함 탐지 기법
+  - 등록번호: C-2025-023071
+  - 설명: ResNet50-LSTM 기반 멀티모달 비지도 학습 제조 결함 탐지 시스템.
+
+- 주파수 분석 기반 태양광 결함 자동 탐지 시스템
+  - 등록번호: C-2025-048255
+  - 설명: 주파수 분석 기법을 활용한 태양광 패널 결함 실시간 탐지 시스템.
 
 
 **Patents:**
-- Few-shot-learning을 이용한 자동 모델 업데이트 S/W (출원 번호: 10-2024-0028111/ 24.02.27)
-- 실시간 3D 객체 감지 및 동기화를 통한 현실적인 3D 공간 모델링 시스템 및 방법 (출원 번호: 10-2024-0028668/ 24.02.28)
-- 차량 내부의 폭력 행위 탐지 및 예방을 위한 모니터링 장치 (출원 번호: 10-2024-0028853/ 24.02.28)
-- FS-GAN 기반의 새로운 Anomaly Detection 모델의 이상 탐지 방법 (출원 번호: 10-2024-0029645/ 24.02.29)
-- 인공지능 기반의 제조 공정 이상 탐지 시스템 (출원 번호: 10-2024-0028947/ 24.02.28)
-- 철강제조공정의 Faster R-CNN,  FPN 기반 결함분류 및 약한 지도학습 라벨링 강화기법 (출원 번호: 10-2024-0160389/ 24.11.12)
-- ResViT 철강 표면 결함 분류기 (출원 번호: 10-2024-0169701/ 24.11.25)
-- RF 신호 기반 멀티모달 하이브리드 이상 탐지 장치 및 방법 (출원 번호: 10-2025-0093546/ 25.07.11)
-- 인공지능 기반 이상 탐지 및 복구 가능성 예측 장치 및 방법 (출원 번호: 10-2025-0095368/ 25.07.15)
+- Few-shot-learning을 이용한 자동 모델 업데이트 S/W (출원 번호: 10-2024-0028111)
+- 실시간 3D 객체 감지 및 동기화를 통한 현실적인 3D 공간 모델링 시스템 및 방법 (출원 번호: 10-2024-0028668)
+- FS-GAN 기반의 새로운 Anomaly Detection 모델의 이상 탐지 방법 (출원 번호: 10-2024-0029645)
+- 차량 내부의 폭력 행위 탐지 및 예방을 위한 모니터링 장치 (출원 번호: 10-2024-0028853)
+- 인공지능 기반의 제조 공정 이상 탐지 시스템 (출원 번호: 10-2024-0028947)
+- 철강 표면 결함 추출을 위한 철강 이미지 레이블링 장치 및 그 동작 방법 (출원 번호: 10-2024-0160389)
+- 표면 결함 검사 방법 및 장치 (출원 번호: 10-2024-0169701)
+- RF 신호 기반 멀티모달 하이브리드 이상 탐지 장치 및 방법 (출원 번호: 10-2025-0093546)
+- 인공지능 기반 이상 탐지 및 복구 가능성 예측 장치 및 방법 (출원 번호: 10-2025-0095368
 
 ---
 
